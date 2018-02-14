@@ -1,0 +1,8 @@
+MIDlet-1: Calculadora, , Calculadora
+MIDlet-Jar-Size: 2449
+MIDlet-Jar-URL: Calculadora1.jar
+MIDlet-Name: Calculadora1
+MIDlet-Vendor: Vendor
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.0
+MicroEdition-Profile: MIDP-2.1
